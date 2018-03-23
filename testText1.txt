@@ -1,12 +1,9 @@
 Original Line 1
 Original Line 2 branch1 line 4sss
-Original Line 3 new line
-Original Line 2 branch2s
 Original Line 3
-<<<<<<< HEAD
+Original Line 3
 Original Line 4
 =================================
-=======
 Original line 4 by branch 4
-Original Lie 4
->>>>>>> master
+Original Line 4
+
